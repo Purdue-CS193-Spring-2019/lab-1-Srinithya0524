@@ -1,3 +1,10 @@
+# Srinithya's first CS193 Lab
+
+- CS193 instructors teach the content in a fun way.
+- I like the use of memes during lecture
+- The timing of the class is perfect
+
+
 # CS 193
 ## This is a Github page
 
